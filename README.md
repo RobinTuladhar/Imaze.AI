@@ -8,7 +8,6 @@ Features
 2. CNN and LSTM Integration: Combine the power of Convolutional Neural Networks and Long Short-Term Memory to enhance the quality of caption generation.
 3. Elegant and User-Friendly Frontend: Experience a visually appealing and intuitive web interface that showcases the capabilities of the AI model, designed using HTML, CSS, and JavaScript.
 4. Gallery Display: Each uploaded image and its corresponding caption are stored in the gallery, along with the date and time generated, allowing users to view and appreciate the performance of the model.
-5. 
 # Imaze.AI(Landing Page)
 ![image](https://user-images.githubusercontent.com/94290915/225579470-21cf4301-ebe6-4ee1-8124-53e3926ccd82.png)
 ![11](https://user-images.githubusercontent.com/94290915/229267392-35177285-b659-468e-9555-20d0811f798a.png)
