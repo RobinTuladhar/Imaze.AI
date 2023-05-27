@@ -1,6 +1,6 @@
 ## Image Caption Generator: Automatic Captioning for Any Image
 
-Welcome to the Image Caption Generator repository! This powerful web-based application combines the cutting-edge capabilities of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) within the field of deep learning. It seamlessly generates captivating and descriptive captions for any given image. The frontend of the application, beautifully crafted with HTML, CSS, and JavaScript, provides an immersive and user-friendly experience. By leveraging the Django framework, the AI model effortlessly integrates with the frontend, ensuring smooth and efficient communication.
+Welcome to my Image Caption Generator repository! This powerful web-based application combines the cutting-edge capabilities of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) within the field of deep learning. It seamlessly generates captivating and descriptive captions for any given image without you having to ponder. The frontend of the application, beautifully crafted with HTML, CSS, and JavaScript, provides an immersive and user-friendly experience. By leveraging the Django framework, the AI model effortlessly integrates with the frontend, ensuring smooth and efficient communication.
 
 Features
 1. Advanced Image Captioning: Generate captivating and descriptive captions for any image with remarkable accuracy.
