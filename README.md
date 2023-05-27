@@ -9,7 +9,7 @@ Features
 4. Gallery Display: Each uploaded image and its corresponding caption are stored in the gallery, along with the date and time generated, allowing users to view and appreciate the performance of the model.
 
 ![brave_R97nAs1x3L](https://user-images.githubusercontent.com/94290915/230424850-da37c5c7-87aa-4949-ba23-dc52381113d7.png)
-## Gallery Page
+# Gallery Page
 The uploaded image from upload page gets automatically displayed here
 ![brave_iuMmbHL0Xg](https://github.com/RobinTuladhar/Imaze.AI/assets/94290915/ad036487-6f05-4a69-a4b6-d7394f405f42)
 
