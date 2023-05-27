@@ -1,7 +1,7 @@
 ## Image Caption Generator: Automatic Captioning for Any Image
 Image Caption Generator
 <p align="center">
-  <img src="demo_image.jpg" alt="Demo Image" width="400" height="300">
+  ![brave_R97nAs1x3L](https://user-images.githubusercontent.com/94290915/230424850-da37c5c7-87aa-4949-ba23-dc52381113d7.png)
 </p>
 License
 
