@@ -1,3 +1,4 @@
+This is an image caption generator where any image can be captioned without you having to ponder. Made with the combination of CNN and RNN(LSTM) which is potrayed beautifually using a website made up with html,css and js. The ai model is conneted to the frontend using the django framework.
 # Captioning a random image
 ![brave_R97nAs1x3L](https://user-images.githubusercontent.com/94290915/230424850-da37c5c7-87aa-4949-ba23-dc52381113d7.png)
 # Imaze.AI(Landing Page)
